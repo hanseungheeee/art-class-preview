@@ -1,0 +1,5 @@
+:HL["/art-class-preview/_next/static/chunks/3hb0s56b3xb6q.css","style"]
+:HL["/art-class-preview/_next/static/media/LIFEPLUS_Bold-s.p.1lmuoppls8mga.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/art-class-preview/_next/static/media/LIFEPLUS_Light-s.p.1aa454ektq5c1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/art-class-preview/_next/static/media/LIFEPLUS_Medium-s.p.3uga725774t65.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"finance","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"58yiR0HZWQBDz-TrHhJDR"}
